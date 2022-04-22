@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     # 3rd party
     'rest_framework',
 
+
     # local
     'books',
     'api.apps.ApiConfig',
